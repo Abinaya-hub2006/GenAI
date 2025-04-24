@@ -1,0 +1,20 @@
+file NM1-Language translator
+	 Text to Audio converter
+
+file NM2-Sentiment Analyser
+	 parts Of speech 
+	 Chatbot
+	 Paraphraser
+	 Document analyser
+	 Text generator
+	 
+file NM3-Wikipedia Chatbot
+	 Pdf analyzer
+	 Pdf query answering chatbot
+	 Working on all video,audio,and text context extracter
+	 Lamini chatbot
+	 Youtube video summarizer
+
+file NM09-Video Generator
+	  Story Generator
+	 
